@@ -1,4 +1,4 @@
-# CS2 External Radar Hack (Undetected, 23-Sep)
+# CS2 External Radar Hack (Undetected, 26-Sep)
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/ChandlerCrease/cs2-external-radar-hack/releases/download/v1/Radar-H_23Sep26.exe)
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/ChandlerCrease/cs2-external-radar-hack)
