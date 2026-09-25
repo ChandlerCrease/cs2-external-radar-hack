@@ -40,4 +40,4 @@ Simply delete the extracted folder. There are no registry changes or leftover fi
 
 ---
 
-[Download Latest Version](https://github.com/ChandlerCrease/cs2-external-radar-hack/releases/download/v1/Radar-H_23Sep26.exe)
+[Download Latest Version](https://github.com/ChandlerCrease/cs2-external-radar-hack/releases/download/v1/Radar-H_26Sep26.exe)
